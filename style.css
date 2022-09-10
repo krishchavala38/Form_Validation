@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: white;
+    font-size: 20px;
+    background-image: url('https://www.athletadesk.com/wp-content/uploads/2016/08/join-background.jpg');
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-wrapper{
+    margin-top: 25px;
+}
+.page-title{
+    text-align: center;
+}
+.registration-form{
+    width: 800px;
+    margin: auto;
+}
